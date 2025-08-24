@@ -1,0 +1,515 @@
+[Drift] Round 0: Drift = 17 ms
+[Receiver] Sent vote: VOTE_YES2
+[Receiver] Playing reharm next: 7_11_2_5 & 0_4_7_11
+🎵 Sent to M5 at: 94413
+
+[Drift] Round 1: Drift = 38 ms
+[Receiver] Next basic chord pair: 4_7_11_2 & 7_11_2_5
+🎵 Sent to M5 at: 102452
+
+[Drift] Round 2: Drift = 39 ms
+[Receiver] Sent vote: VOTE_NO2
+[Receiver] Next basic chord pair: 5_9_0_4 & 0_4_7_11
+🎵 Sent to M5 at: 110490
+
+[Drift] Round 3: Drift = 38 ms
+[Receiver] Sent vote: VOTE_NO2
+[Receiver] Next basic chord pair: 2_5_9_0 & 9_0_4_7
+🎵 Sent to M5 at: 118529
+
+[Drift] Round 4: Drift = 39 ms
+[Receiver] Sent vote: VOTE_NO2
+[Receiver] Next basic chord pair: 4_7_11_2 & 7_11_2_5
+🎵 Sent to M5 at: 126567
+
+[Drift] Round 5: Drift = 38 ms
+[Receiver] Sent vote: VOTE_YES2
+[Receiver] Next basic chord pair: 5_9_0_4 & 0_4_7_11
+🎵 Sent to M5 at: 134605
+
+[Drift] Round 6: Drift = 38 ms
+vote failed
+5_9_0_4 & 0_4_7_11
+[Receiver] Next basic chord pair: 2_5_9_0 & 9_0_4_7
+🎵 Sent to M5 at: 148532
+
+
+[Drift] Round 7: Drift = 5927 ms
+[Receiver] Sent vote: VOTE_NO2
+[Receiver] Next basic chord pair: 4_7_11_2 & 7_11_2_5
+🎵 Sent to M5 at: 156570
+
+[Drift] Round 8: Drift = 38 ms
+[Receiver] Sent vote: VOTE_NO2
+[Receiver] Next basic chord pair: 5_9_0_4 & 0_4_7_11
+🎵 Sent to M5 at: 164609
+
+[Drift] Round 9: Drift = 39 ms
+[Receiver] Sent vote: VOTE_NO2
+[Receiver] Next basic chord pair: 2_5_9_0 & 9_0_4_7
+🎵 Sent to M5 at: 172647
+
+[Drift] Round 10: Drift = 38 ms
+[Receiver] Sent vote: VOTE_YES2
+[Receiver] Next basic chord pair: 4_7_11_2 & 7_11_2_5
+🎵 Sent to M5 at: 180685
+
+[Drift] Round 11: Drift = 38 ms
+[Receiver] Sent vote: VOTE_YES2
+[Receiver] Playing reharm next: 4_7_11_2 & 9_0_4_7
+🎵 Sent to M5 at: 188724
+
+[Drift] Round 12: Drift = 39 ms
+[Receiver] Next basic chord pair: 5_9_0_4 & 0_4_7_11
+🎵 Sent to M5 at: 196762
+
+[Drift] Round 13: Drift = 38 ms
+[Receiver] Sent vote: VOTE_NO2
+[Receiver] Next basic chord pair: 2_5_9_0 & 9_0_4_7
+🎵 Sent to M5 at: 204801
+
+[Drift] Round 14: Drift = 39 ms
+[Receiver] Sent vote: VOTE_NO2
+[Receiver] Next basic chord pair: 4_7_11_2 & 7_11_2_5
+🎵 Sent to M5 at: 212839
+
+[Drift] Round 15: Drift = 38 ms
+vote failed
+4_7_11_2 & 7_11_2_5
+[Receiver] Next basic chord pair: 5_9_0_4 & 0_4_7_11
+🎵 Sent to M5 at: 220877
+
+[Drift] Round 16: Drift = 38 ms
+[Receiver] Sent vote: VOTE_NO2
+[Receiver] Next basic chord pair: 2_5_9_0 & 9_0_4_7
+🎵 Sent to M5 at: 229018
+
+[Drift] Round 17: Drift = 141 ms
+[Receiver] Sent vote: VOTE_NO2
+[Receiver] Next basic chord pair: 4_7_11_2 & 7_11_2_5
+🎵 Sent to M5 at: 237057
+
+[Drift] Round 18: Drift = 39 ms
+[Receiver] Sent vote: VOTE_NO2
+[Receiver] Next basic chord pair: 5_9_0_4 & 0_4_7_11
+🎵 Sent to M5 at: 245095
+
+[Drift] Round 19: Drift = 38 ms
+[Receiver] Sent vote: VOTE_YES2
+[Receiver] Playing reharm next: 5_9_0_4 & 11_2_5_9
+🎵 Sent to M5 at: 253133
+
+[Drift] Round 20: Drift = 38 ms
+[Receiver] Next basic chord pair: 2_5_9_0 & 9_0_4_7
+🎵 Sent to M5 at: 261172
+
+[Drift] Round 21: Drift = 39 ms
+[Receiver] Sent vote: VOTE_YES2
+[Receiver] Playing reharm next: 4_7_11_2 & 9_0_4_7
+🎵 Sent to M5 at: 272589
+
+[Drift] Round 22: Drift = 3417 ms
+[Receiver] Next basic chord pair: 5_9_0_4 & 0_4_7_11
+🎵 Sent to M5 at: 280628
+
+[Drift] Round 23: Drift = 39 ms
+[Receiver] Sent vote: VOTE_YES2
+[Receiver] Next basic chord pair: 2_5_9_0 & 9_0_4_7
+🎵 Sent to M5 at: 292455
+
+[Drift] Round 24: Drift = 3827 ms
+[Receiver] Sent vote: VOTE_NO2
+[Receiver] Playing reharm next: 7_11_2_5 & 0_4_7_11
+🎵 Sent to M5 at: 300493
+
+[Drift] Round 25: Drift = 38 ms
+[Receiver] Next basic chord pair: 4_7_11_2 & 7_11_2_5
+🎵 Sent to M5 at: 308532
+
+[Drift] Round 26: Drift = 39 ms
+[Receiver] Sent vote: VOTE_YES2
+[Receiver] Next basic chord pair: 5_9_0_4 & 0_4_7_11
+🎵 Sent to M5 at: 316570
+
+[Drift] Round 27: Drift = 38 ms
+[Receiver] Sent vote: VOTE_YES2
+[Receiver] Playing reharm next: 5_9_0_4 & 11_2_5_9
+🎵 Sent to M5 at: 324609
+
+[Drift] Round 28: Drift = 39 ms
+[Receiver] Next basic chord pair: 2_5_9_0 & 9_0_4_7
+🎵 Sent to M5 at: 332647
+
+[Drift] Round 29: Drift = 38 ms
+[Receiver] Sent vote: VOTE_NO2
+[Receiver] Next basic chord pair: 4_7_11_2 & 7_11_2_5
+🎵 Sent to M5 at: 363060
+
+
+[Drift] Round 30: Drift = 22413 ms
+[Receiver] Sent vote: VOTE_YES2
+[Receiver] Playing reharm next: 4_7_11_2 & 9_0_4_7
+🎵 Sent to M5 at: 371252
+
+[Drift] Round 31: Drift = 192 ms
+[Receiver] Next basic chord pair: 5_9_0_4 & 0_4_7_11
+🎵 Sent to M5 at: 379290
+
+[Drift] Round 32: Drift = 38 ms
+[Receiver] Sent vote: VOTE_NO2
+[Receiver] Next basic chord pair: 2_5_9_0 & 9_0_4_7
+🎵 Sent to M5 at: 387329
+
+[Drift] Round 33: Drift = 39 ms
+[Receiver] Sent vote: VOTE_NO2
+[Receiver] Next basic chord pair: 4_7_11_2 & 7_11_2_5
+🎵 Sent to M5 at: 395367
+
+[Drift] Round 34: Drift = 38 ms
+[Receiver] Sent vote: VOTE_YES2
+[Receiver] Next basic chord pair: 5_9_0_4 & 0_4_7_11
+🎵 Sent to M5 at: 403815
+
+[Drift] Round 35: Drift = 448 ms
+[Receiver] Sent vote: VOTE_NO2
+[Receiver] Next basic chord pair: 2_5_9_0 & 9_0_4_7
+🎵 Sent to M5 at: 411853
+
+[Drift] Round 36: Drift = 38 ms
+[Receiver] Sent vote: VOTE_NO2
+[Receiver] Next basic chord pair: 4_7_11_2 & 7_11_2_5
+🎵 Sent to M5 at: 419892
+
+[Drift] Round 37: Drift = 39 ms
+[Receiver] Sent vote: VOTE_YES2
+[Receiver] Next basic chord pair: 5_9_0_4 & 0_4_7_11
+🎵 Sent to M5 at: 427930
+
+
+[Drift] Round 38: Drift = 38 ms
+[Receiver] Sent vote: VOTE_NO2
+[Receiver] Next basic chord pair: 2_5_9_0 & 9_0_4_7
+🎵 Sent to M5 at: 435969
+
+[Drift] Round 39: Drift = 39 ms
+[Receiver] Sent vote: VOTE_NO2
+[Receiver] Next basic chord pair: 4_7_11_2 & 7_11_2_5
+🎵 Sent to M5 at: 444007
+
+[Drift] Round 40: Drift = 38 ms
+[Receiver] Sent vote: VOTE_YES2
+[Receiver] Next basic chord pair: 5_9_0_4 & 0_4_7_11
+🎵 Sent to M5 at: 452045
+
+[Drift] Round 41: Drift = 38 ms
+[Receiver] Sent vote: VOTE_YES2
+[Receiver] Playing reharm next: 5_9_0_4 & 11_2_5_9
+🎵 Sent to M5 at: 460084
+
+[Drift] Round 42: Drift = 39 ms
+[Receiver] Next basic chord pair: 2_5_9_0 & 9_0_4_7
+🎵 Sent to M5 at: 468122
+
+[Drift] Round 43: Drift = 38 ms
+vote failed
+2_5_9_0 & 9_0_4_7
+[Receiver] Next basic chord pair: 5_9_0_4 & 0_4_7_11
+🎵 Sent to M5 at: 484148
+
+[Drift] Round 44: Drift = 8026 ms
+[Receiver] Sent vote: VOTE_NO2
+[Receiver] Playing reharm next: 5_9_0_4 & 11_2_5_9
+🎵 Sent to M5 at: 492186
+
+
+[Drift] Round 45: Drift = 38 ms
+[Receiver] Next basic chord pair: 2_5_9_0 & 9_0_4_7
+🎵 Sent to M5 at: 500225
+
+[Drift] Round 46: Drift = 39 ms
+vote failed
+2_5_9_0 & 9_0_4_7
+[Receiver] Next basic chord pair: 4_7_11_2 & 7_11_2_5
+🎵 Sent to M5 at: 508263
+
+[Drift] Round 47: Drift = 38 ms
+[Receiver] Sent vote: VOTE_YES2
+[Receiver] Playing reharm next: 4_7_11_2 & 9_0_4_7
+🎵 Sent to M5 at: 516301
+
+[Drift] Round 48: Drift = 38 ms
+[Receiver] Next basic chord pair: 5_9_0_4 & 0_4_7_11
+🎵 Sent to M5 at: 524340
+
+[Drift] Round 49: Drift = 39 ms
+[Receiver] Sent vote: VOTE_YES2
+[Receiver] Next basic chord pair: 2_5_9_0 & 9_0_4_7
+🎵 Sent to M5 at: 532378
+
+[Drift] Round 50: Drift = 38 ms
+[Receiver] Sent vote: VOTE_NO2
+[Receiver] Next basic chord pair: 4_7_11_2 & 7_11_2_5
+🎵 Sent to M5 at: 540417
+
+[Drift] Round 51: Drift = 39 ms
+[Receiver] Sent vote: VOTE_NO2
+[Receiver] Playing reharm next: 4_7_11_2 & 9_0_4_7
+🎵 Sent to M5 at: 548429
+
+
+[Drift] Round 52: Drift = 12 ms
+[Receiver] Next basic chord pair: 5_9_0_4 & 0_4_7_11
+🎵 Sent to M5 at: 556468
+
+[Drift] Round 53: Drift = 39 ms
+[Receiver] Sent vote: VOTE_NO2
+[Receiver] Next basic chord pair: 2_5_9_0 & 9_0_4_7
+🎵 Sent to M5 at: 564506
+
+[Drift] Round 54: Drift = 38 ms
+[Receiver] Sent vote: VOTE_YES2
+[Receiver] Next basic chord pair: 4_7_11_2 & 7_11_2_5
+🎵 Sent to M5 at: 572545
+
+[Drift] Round 55: Drift = 39 ms
+[Receiver] Sent vote: VOTE_NO2
+[Receiver] Next basic chord pair: 5_9_0_4 & 0_4_7_11
+🎵 Sent to M5 at: 580583
+
+[Drift] Round 56: Drift = 38 ms
+[Receiver] Sent vote: VOTE_NO2
+[Receiver] Next basic chord pair: 2_5_9_0 & 9_0_4_7
+🎵 Sent to M5 at: 588673
+
+[Drift] Round 57: Drift = 90 ms
+[Receiver] Sent vote: VOTE_NO2
+[Receiver] Next basic chord pair: 5_9_0_4 & 0_4_7_11
+🎵 Sent to M5 at: 604237
+
+[Drift] Round 58: Drift = 7564 ms
+vote failed
+5_9_0_4 & 0_4_7_11
+[Receiver] Next basic chord pair: 2_5_9_0 & 9_0_4_7
+🎵 Sent to M5 at: 612276
+
+[Drift] Round 59: Drift = 39 ms
+[Receiver] Sent vote: VOTE_NO2
+[Receiver] Next basic chord pair: 4_7_11_2 & 7_11_2_5
+🎵 Sent to M5 at: 620314
+
+
+[Drift] Round 60: Drift = 38 ms
+[Receiver] Sent vote: VOTE_NO2
+[Receiver] Next basic chord pair: 5_9_0_4 & 0_4_7_11
+🎵 Sent to M5 at: 628353
+
+[Drift] Round 61: Drift = 39 ms
+[Receiver] Sent vote: VOTE_NO2
+[Receiver] Next basic chord pair: 2_5_9_0 & 9_0_4_7
+🎵 Sent to M5 at: 636391
+
+[Drift] Round 62: Drift = 38 ms
+[Receiver] Sent vote: VOTE_YES2
+[Receiver] Playing reharm next: 7_11_2_5 & 0_4_7_11
+🎵 Sent to M5 at: 644429
+
+[Drift] Round 63: Drift = 38 ms
+[Receiver] Next basic chord pair: 4_7_11_2 & 7_11_2_5
+🎵 Sent to M5 at: 652468
+
+[Drift] Round 64: Drift = 39 ms
+[Receiver] Sent vote: VOTE_NO2
+[Receiver] Next basic chord pair: 5_9_0_4 & 0_4_7_11
+🎵 Sent to M5 at: 660506
+
+[Drift] Round 65: Drift = 38 ms
+[Receiver] Sent vote: VOTE_NO2
+[Receiver] Next basic chord pair: 2_5_9_0 & 9_0_4_7
+🎵 Sent to M5 at: 668545
+
+[Drift] Round 66: Drift = 39 ms
+[Receiver] Sent vote: VOTE_NO2
+[Receiver] Next basic chord pair: 4_7_11_2 & 7_11_2_5
+🎵 Sent to M5 at: 676583
+
+[Drift] Round 67: Drift = 38 ms
+[Receiver] Sent vote: VOTE_YES2
+[Receiver] Next basic chord pair: 5_9_0_4 & 0_4_7_11
+🎵 Sent to M5 at: 684621
+
+
+[Drift] Round 68: Drift = 38 ms
+[Receiver] Sent vote: VOTE_NO2
+[Receiver] Playing reharm next: 5_9_0_4 & 11_2_5_9
+🎵 Sent to M5 at: 692660
+
+[Drift] Round 69: Drift = 39 ms
+[Receiver] Next basic chord pair: 2_5_9_0 & 9_0_4_7
+🎵 Sent to M5 at: 700698
+
+[Drift] Round 70: Drift = 38 ms
+[Receiver] Sent vote: VOTE_YES2
+[Receiver] Next basic chord pair: 4_7_11_2 & 7_11_2_5
+🎵 Sent to M5 at: 708737
+
+[Drift] Round 71: Drift = 39 ms
+[Receiver] Sent vote: VOTE_NO2
+[Receiver] Next basic chord pair: 5_9_0_4 & 0_4_7_11
+🎵 Sent to M5 at: 716775
+
+[Drift] Round 72: Drift = 38 ms
+[Receiver] Sent vote: VOTE_NO2
+[Receiver] Next basic chord pair: 2_5_9_0 & 9_0_4_7
+🎵 Sent to M5 at: 724813
+
+[Drift] Round 73: Drift = 38 ms
+[Receiver] Sent vote: VOTE_NO2
+[Receiver] Next basic chord pair: 4_7_11_2 & 7_11_2_5
+🎵 Sent to M5 at: 732852
+
+[Drift] Round 74: Drift = 39 ms
+[Receiver] Sent vote: VOTE_YES2
+[Receiver] Next basic chord pair: 5_9_0_4 & 0_4_7_11
+🎵 Sent to M5 at: 740890
+
+[Drift] Round 75: Drift = 38 ms
+[Receiver] Sent vote: VOTE_NO2
+[Receiver] Next basic chord pair: 2_5_9_0 & 9_0_4_7
+🎵 Sent to M5 at: 748929
+
+
+[Drift] Round 76: Drift = 39 ms
+[Receiver] Sent vote: VOTE_YES2
+[Receiver] Playing reharm next: 7_11_2_5 & 0_4_7_11
+🎵 Sent to M5 at: 756967
+
+[Drift] Round 77: Drift = 38 ms
+[Receiver] Next basic chord pair: 4_7_11_2 & 7_11_2_5
+🎵 Sent to M5 at: 765005
+
+[Drift] Round 78: Drift = 38 ms
+[Receiver] Sent vote: VOTE_YES2
+[Receiver] Next basic chord pair: 5_9_0_4 & 0_4_7_11
+🎵 Sent to M5 at: 773044
+
+[Drift] Round 79: Drift = 39 ms
+[Receiver] Sent vote: VOTE_YES2
+[Receiver] Next basic chord pair: 2_5_9_0 & 9_0_4_7
+🎵 Sent to M5 at: 781082
+
+[Drift] Round 80: Drift = 38 ms
+[Receiver] Sent vote: VOTE_NO2
+[Receiver] Playing reharm next: 4_7_11_2 & 9_0_4_7
+🎵 Sent to M5 at: 794189
+
+[Drift] Round 81: Drift = 5107 ms
+[Receiver] Next basic chord pair: 5_9_0_4 & 0_4_7_11
+🎵 Sent to M5 at: 802228
+
+[Drift] Round 82: Drift = 39 ms
+[Receiver] Sent vote: VOTE_NO2
+[Receiver] Next basic chord pair: 2_5_9_0 & 9_0_4_7
+🎵 Sent to M5 at: 810829
+
+[Drift] Round 83: Drift = 601 ms
+vote failed
+2_5_9_0 & 9_0_4_7
+[Receiver] Next basic chord pair: 4_7_11_2 & 7_11_2_5
+🎵 Sent to M5 at: 842317
+
+
+[Drift] Round 84: Drift = 23488 ms
+[Receiver] Sent vote: VOTE_YES2
+[Receiver] Playing reharm next: 4_7_11_2 & 9_0_4_7
+🎵 Sent to M5 at: 850356
+
+[Drift] Round 85: Drift = 39 ms
+[Receiver] Next basic chord pair: 5_9_0_4 & 0_4_7_11
+🎵 Sent to M5 at: 858394
+
+[Drift] Round 86: Drift = 38 ms
+[Receiver] Sent vote: VOTE_YES2
+[Receiver] Next basic chord pair: 2_5_9_0 & 9_0_4_7
+🎵 Sent to M5 at: 868941
+
+[Drift] Round 87: Drift = 2547 ms
+[Receiver] Sent vote: VOTE_NO2
+[Receiver] Next basic chord pair: 4_7_11_2 & 7_11_2_5
+🎵 Sent to M5 at: 876980
+
+[Drift] Round 88: Drift = 39 ms
+[Receiver] Sent vote: VOTE_NO2
+[Receiver] Next basic chord pair: 5_9_0_4 & 0_4_7_11
+🎵 Sent to M5 at: 885018
+
+[Drift] Round 89: Drift = 38 ms
+[Receiver] Sent vote: VOTE_YES2
+[Receiver] Next basic chord pair: 2_5_9_0 & 9_0_4_7
+🎵 Sent to M5 at: 893057
+
+[Drift] Round 90: Drift = 39 ms
+[Receiver] Sent vote: VOTE_YES2
+[Receiver] Playing reharm next: 7_11_2_5 & 0_4_7_11
+🎵 Sent to M5 at: 901095
+
+[Drift] Round 91: Drift = 38 ms
+[Receiver] Next basic chord pair: 4_7_11_2 & 7_11_2_5
+🎵 Sent to M5 at: 909133
+
+
+[Drift] Round 92: Drift = 38 ms
+[Receiver] Sent vote: VOTE_YES2
+[Receiver] Next basic chord pair: 5_9_0_4 & 0_4_7_11
+🎵 Sent to M5 at: 917172
+
+[Drift] Round 93: Drift = 39 ms
+[Receiver] Sent vote: VOTE_NO2
+[Receiver] Next basic chord pair: 2_5_9_0 & 9_0_4_7
+🎵 Sent to M5 at: 925210
+
+[Drift] Round 94: Drift = 38 ms
+[Receiver] Sent vote: VOTE_NO2
+[Receiver] Playing reharm next: 7_11_2_5 & 0_4_7_11
+🎵 Sent to M5 at: 933249
+
+[Drift] Round 95: Drift = 39 ms
+[Receiver] Next basic chord pair: 4_7_11_2 & 7_11_2_5
+🎵 Sent to M5 at: 941287
+
+[Drift] Round 96: Drift = 38 ms
+[Receiver] Sent vote: VOTE_NO2
+[Receiver] Playing reharm next: 4_7_11_2 & 9_0_4_7
+🎵 Sent to M5 at: 949325
+
+[Drift] Round 97: Drift = 38 ms
+[Receiver] Next basic chord pair: 5_9_0_4 & 0_4_7_11
+🎵 Sent to M5 at: 957364
+
+[Drift] Round 98: Drift = 39 ms
+[Receiver] Sent vote: VOTE_YES2
+[Receiver] Next basic chord pair: 2_5_9_0 & 9_0_4_7
+🎵 Sent to M5 at: 965402
+
+[Drift] Round 99: Drift = 38 ms
+[Receiver] Sent vote: VOTE_NO2
+[Receiver] Next basic chord pair: 4_7_11_2 & 7_11_2_5
+🎵 Sent to M5 at: 973441
+
+
+[Drift] Round 100: Drift = 39 ms
+[Receiver] Sent vote: VOTE_YES2
+[Receiver] Next basic chord pair: 5_9_0_4 & 0_4_7_11
+🎵 Sent to M5 at: 981479
+
+[Drift] Round 101: Drift = 38 ms
+[Receiver] Sent vote: VOTE_NO2
+[Receiver] Next basic chord pair: 2_5_9_0 & 9_0_4_7
+🎵 Sent to M5 at: 989517
+
+[Drift] Round 102: Drift = 38 ms
+[Receiver] Sent vote: VOTE_NO2
+[Receiver] Next basic chord pair: 4_7_11_2 & 7_11_2_5
+🎵 Sent to M5 at: 997530
+
+[Drift] Round 103: Drift = 13 ms
+[Receiver] Sent vote: VOTE_YES2

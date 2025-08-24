@@ -1,0 +1,540 @@
+System Sync time: 1929
+>> SENDER: Initial start broadcast complete
+vote result: reharm
+pass rate: 1.00
+Sent chord pair: 7_11_2_5,0_4_7_11
+Chord Sync time: 53
+Start reharm at: 43286
+3, 5
+Sent chord pair: 4_7_11_2,7_11_2_5T
+Chord Sync time: 54
+pass rate: 0.50
+vote failed, send basic chord
+4, 1
+Sent chord pair: 5_9_0_4,0_4_7_11T
+Chord Sync time: 53
+pass rate: 0.33
+vote failed, send basic chord
+2, 6
+Sent chord pair: 2_5_9_0,9_0_4_7T
+Chord Sync time: 52
+vote result: basic
+pass rate: 0.25
+3, 5
+Sent chord pair: 4_7_11_2,7_11_2_5T
+Chord Sync time: 54
+vote result: reharm
+pass rate: 0.40
+Sent chord pair: 4_7_11_2,9_0_4_7
+Chord Sync time: 52
+Start reharm at: 83286
+4, 1
+Sent chord pair: 5_9_0_4,0_4_7_11T
+Chord Sync time: 53
+pass rate: 0.33
+vote failed, send basic chord
+2, 6
+Sent chord pair: 2_5_9_0,9_0_4_7T
+Chord Sync time: 52
+vote result: basic
+pass rate: 0.29
+3, 5
+Sent chord pair: 4_7_11_2,7_11_2_5T
+Chord Sync time: 50
+pass rate: 0.25
+vote failed, send basic chord
+4, 1
+Sent chord pair: 5_9_0_4,0_4_7_11T
+Chord Sync time: 54
+vote result: basic
+pass rate: 0.22
+2, 6
+Sent chord pair: 2_5_9_0,9_0_4_7T
+Chord Sync time: 52
+pass rate: 0.20
+vote failed, send basic chord
+3, 5
+Sent chord pair: 4_7_11_2,7_11_2_5T
+Chord Sync time: 55
+vote result: reharm
+pass rate: 0.27
+Sent chord pair: 4_7_11_2,9_0_4_7
+Chord Sync time: 52
+Start reharm at: 139286
+4, 1
+Sent chord pair: 5_9_0_4,0_4_7_11T
+Chord Sync time: 53
+pass rate: 0.25
+vote failed, send basic chord
+2, 6
+Sent chord pair: 2_5_9_0,9_0_4_7T
+Chord Sync time: 52
+pass rate: 0.23
+vote failed, send basic chord
+3, 5
+Sent chord pair: 4_7_11_2,7_11_2_5T
+Chord Sync time: 55
+pass rate: 0.21
+vote failed, send basic chord
+4, 1
+Sent chord pair: 5_9_0_4,0_4_7_11T
+Chord Sync time: 53
+vote result: basic
+pass rate: 0.20
+2, 6
+Sent chord pair: 2_5_9_0,9_0_4_7T
+Chord Sync time: 52
+pass rate: 0.19
+vote failed, send basic chord
+3, 5
+Sent chord pair: 4_7_11_2,7_11_2_5T
+Chord Sync time: 54
+vote result: basic
+pass rate: 0.18
+4, 1
+Sent chord pair: 5_9_0_4,0_4_7_11T
+Chord Sync time: 50
+vote result: reharm
+pass rate: 0.22
+Sent chord pair: 5_9_0_4,11_2_5_9
+Chord Sync time: 52
+Start reharm at: 203286
+2, 6
+Sent chord pair: 2_5_9_0,9_0_4_7T
+Chord Sync time: 52
+pass rate: 0.21
+vote failed, send basic chord
+3, 5
+Sent chord pair: 4_7_11_2,7_11_2_5T
+Chord Sync time: 54
+vote result: reharm
+pass rate: 0.25
+Sent chord pair: 4_7_11_2,9_0_4_7
+Chord Sync time: 52
+Start reharm at: 227286
+4, 1
+Sent chord pair: 5_9_0_4,0_4_7_11T
+Chord Sync time: 53
+pass rate: 0.24
+vote failed, send basic chord
+2, 6
+Sent chord pair: 2_5_9_0,9_0_4_7T
+Chord Sync time: 52
+vote result: reharm
+pass rate: 0.27
+Sent chord pair: 7_11_2_5,0_4_7_11
+Chord Sync time: 54
+Start reharm at: 251286
+3, 5
+Sent chord pair: 4_7_11_2,7_11_2_5T
+Chord Sync time: 54
+pass rate: 0.26
+vote failed, send basic chord
+4, 1
+Sent chord pair: 5_9_0_4,0_4_7_11T
+Chord Sync time: 53
+vote result: reharm
+pass rate: 0.29
+Sent chord pair: 5_9_0_4,11_2_5_9
+Chord Sync time: 52
+Start reharm at: 275286
+2, 6
+Sent chord pair: 2_5_9_0,9_0_4_7T
+Chord Sync time: 52
+pass rate: 0.28
+vote failed, send basic chord
+3, 5
+Sent chord pair: 4_7_11_2,7_11_2_5T
+Chord Sync time: 55
+pass rate: 0.27
+vote failed, send basic chord
+4, 1
+Sent chord pair: 5_9_0_4,0_4_7_11T
+Chord Sync time: 53
+pass rate: 0.26
+vote failed, send basic chord
+2, 6
+Sent chord pair: 2_5_9_0,9_0_4_7T
+Chord Sync time: 52
+pass rate: 0.25
+vote failed, send basic chord
+3, 5
+Sent chord pair: 4_7_11_2,7_11_2_5T
+Chord Sync time: 54
+vote result: reharm
+pass rate: 0.28
+Sent chord pair: 4_7_11_2,9_0_4_7
+Chord Sync time: 53
+Start reharm at: 323286
+4, 1
+Sent chord pair: 5_9_0_4,0_4_7_11T
+Chord Sync time: 53
+pass rate: 0.27
+vote failed, send basic chord
+2, 6
+Sent chord pair: 2_5_9_0,9_0_4_7T
+Chord Sync time: 52
+vote result: basic
+pass rate: 0.26
+3, 5
+Sent chord pair: 4_7_11_2,7_11_2_5T
+Chord Sync time: 50
+pass rate: 0.25
+vote failed, send basic chord
+4, 1
+Sent chord pair: 5_9_0_4,0_4_7_11T
+Chord Sync time: 54
+vote result: basic
+pass rate: 0.24
+2, 6
+Sent chord pair: 2_5_9_0,9_0_4_7T
+Chord Sync time: 52
+pass rate: 0.24
+vote failed, send basic chord
+3, 5
+Sent chord pair: 4_7_11_2,7_11_2_5T
+Chord Sync time: 55
+vote result: basic
+pass rate: 0.23
+4, 1
+Sent chord pair: 5_9_0_4,0_4_7_11T
+Chord Sync time: 54
+pass rate: 0.22
+vote failed, send basic chord
+2, 6
+Sent chord pair: 2_5_9_0,9_0_4_7T
+Chord Sync time: 52
+vote result: basic
+pass rate: 0.22
+3, 5
+Sent chord pair: 4_7_11_2,7_11_2_5T
+Chord Sync time: 50
+vote result: basic
+pass rate: 0.21
+4, 1
+Sent chord pair: 5_9_0_4,0_4_7_11T
+Chord Sync time: 50
+vote result: reharm
+pass rate: 0.23
+Sent chord pair: 5_9_0_4,11_2_5_9
+Chord Sync time: 52
+Start reharm at: 411286
+2, 6
+Sent chord pair: 2_5_9_0,9_0_4_7T
+Chord Sync time: 52
+pass rate: 0.22
+vote failed, send basic chord
+3, 5
+Sent chord pair: 4_7_11_2,7_11_2_5T
+Chord Sync time: 54
+pass rate: 0.22
+vote failed, send basic chord
+4, 1
+Sent chord pair: 5_9_0_4,0_4_7_11T
+Chord Sync time: 54
+vote result: reharm
+pass rate: 0.24
+Sent chord pair: 5_9_0_4,11_2_5_9
+Chord Sync time: 52
+Start reharm at: 443286
+2, 6
+Sent chord pair: 2_5_9_0,9_0_4_7T
+Chord Sync time: 52
+pass rate: 0.23
+vote failed, send basic chord
+3, 5
+Sent chord pair: 4_7_11_2,7_11_2_5T
+Chord Sync time: 54
+vote result: reharm
+pass rate: 0.25
+Sent chord pair: 4_7_11_2,9_0_4_7
+Chord Sync time: 53
+Start reharm at: 467286
+4, 1
+Sent chord pair: 5_9_0_4,0_4_7_11T
+Chord Sync time: 53
+pass rate: 0.24
+vote failed, send basic chord
+2, 6
+Sent chord pair: 2_5_9_0,9_0_4_7T
+Chord Sync time: 52
+vote result: basic
+pass rate: 0.24
+3, 5
+Sent chord pair: 4_7_11_2,7_11_2_5T
+Chord Sync time: 54
+vote result: reharm
+pass rate: 0.26
+Sent chord pair: 4_7_11_2,9_0_4_7
+Chord Sync time: 52
+Start reharm at: 499286
+4, 1
+Sent chord pair: 5_9_0_4,0_4_7_11T
+Chord Sync time: 53
+pass rate: 0.25
+vote failed, send basic chord
+2, 6
+Sent chord pair: 2_5_9_0,9_0_4_7T
+Chord Sync time: 52
+pass rate: 0.24
+vote failed, send basic chord
+3, 5
+Sent chord pair: 4_7_11_2,7_11_2_5T
+Chord Sync time: 54
+vote result: basic
+pass rate: 0.24
+4, 1
+Sent chord pair: 5_9_0_4,0_4_7_11T
+Chord Sync time: 54
+pass rate: 0.24
+vote failed, send basic chord
+2, 6
+Sent chord pair: 2_5_9_0,9_0_4_7T
+Chord Sync time: 52
+pass rate: 0.23
+vote failed, send basic chord
+3, 5
+Sent chord pair: 4_7_11_2,7_11_2_5T
+Chord Sync time: 55
+pass rate: 0.23
+vote failed, send basic chord
+4, 1
+Sent chord pair: 5_9_0_4,0_4_7_11T
+Chord Sync time: 53
+pass rate: 0.22
+vote failed, send basic chord
+2, 6
+Sent chord pair: 2_5_9_0,9_0_4_7T
+Chord Sync time: 52
+vote result: basic
+pass rate: 0.22
+3, 5
+Sent chord pair: 4_7_11_2,7_11_2_5T
+Chord Sync time: 50
+pass rate: 0.21
+vote failed, send basic chord
+4, 1
+Sent chord pair: 5_9_0_4,0_4_7_11T
+Chord Sync time: 54
+vote result: basic
+pass rate: 0.21
+2, 6
+Sent chord pair: 2_5_9_0,9_0_4_7T
+Chord Sync time: 52
+vote result: reharm
+pass rate: 0.22
+Sent chord pair: 7_11_2_5,0_4_7_11
+Chord Sync time: 50
+Start reharm at: 595286
+3, 5
+Sent chord pair: 4_7_11_2,7_11_2_5T
+Chord Sync time: 54
+pass rate: 0.22
+vote failed, send basic chord
+4, 1
+Sent chord pair: 5_9_0_4,0_4_7_11T
+Chord Sync time: 54
+vote result: basic
+pass rate: 0.22
+2, 6
+Sent chord pair: 2_5_9_0,9_0_4_7T
+Chord Sync time: 53
+vote result: basic
+pass rate: 0.21
+3, 5
+Sent chord pair: 4_7_11_2,7_11_2_5T
+Chord Sync time: 50
+vote result: basic
+pass rate: 0.21
+4, 1
+Sent chord pair: 5_9_0_4,0_4_7_11T
+Chord Sync time: 54
+vote result: reharm
+pass rate: 0.22
+Sent chord pair: 5_9_0_4,11_2_5_9
+Chord Sync time: 52
+Start reharm at: 643286
+2, 6
+Sent chord pair: 2_5_9_0,9_0_4_7T
+Chord Sync time: 52
+pass rate: 0.22
+vote failed, send basic chord
+3, 5
+Sent chord pair: 4_7_11_2,7_11_2_5T
+Chord Sync time: 55
+pass rate: 0.22
+vote failed, send basic chord
+4, 1
+Sent chord pair: 5_9_0_4,0_4_7_11T
+Chord Sync time: 53
+vote result: basic
+pass rate: 0.21
+2, 6
+Sent chord pair: 2_5_9_0,9_0_4_7T
+Chord Sync time: 52
+vote result: basic
+pass rate: 0.21
+3, 5
+Sent chord pair: 4_7_11_2,7_11_2_5T
+Chord Sync time: 50
+vote result: basic
+pass rate: 0.21
+4, 1
+Sent chord pair: 5_9_0_4,0_4_7_11T
+Chord Sync time: 53
+pass rate: 0.20
+vote failed, send basic chord
+2, 6
+Sent chord pair: 2_5_9_0,9_0_4_7T
+Chord Sync time: 52
+vote result: reharm
+pass rate: 0.21
+Sent chord pair: 7_11_2_5,0_4_7_11
+Chord Sync time: 53
+Start reharm at: 707286
+3, 5
+Sent chord pair: 4_7_11_2,7_11_2_5T
+Chord Sync time: 54
+pass rate: 0.21
+vote failed, send basic chord
+4, 1
+Sent chord pair: 5_9_0_4,0_4_7_11T
+Chord Sync time: 54
+pass rate: 0.21
+vote failed, send basic chord
+2, 6
+Sent chord pair: 2_5_9_0,9_0_4_7T
+Chord Sync time: 52
+pass rate: 0.21
+vote failed, send basic chord
+3, 5
+Sent chord pair: 4_7_11_2,7_11_2_5T
+Chord Sync time: 55
+vote result: reharm
+pass rate: 0.22
+Sent chord pair: 4_7_11_2,9_0_4_7
+Chord Sync time: 52
+Start reharm at: 747286
+4, 1
+Sent chord pair: 5_9_0_4,0_4_7_11T
+Chord Sync time: 53
+pass rate: 0.21
+vote failed, send basic chord
+2, 6
+Sent chord pair: 2_5_9_0,9_0_4_7T
+Chord Sync time: 52
+pass rate: 0.21
+vote failed, send basic chord
+3, 5
+Sent chord pair: 4_7_11_2,7_11_2_5T
+Chord Sync time: 55
+pass rate: 0.21
+vote failed, send basic chord
+4, 1
+Sent chord pair: 5_9_0_4,0_4_7_11T
+Chord Sync time: 53
+pass rate: 0.21
+vote failed, send basic chord
+2, 6
+Sent chord pair: 2_5_9_0,9_0_4_7T
+Chord Sync time: 52
+pass rate: 0.20
+vote failed, send basic chord
+3, 5
+Sent chord pair: 4_7_11_2,7_11_2_5T
+Chord Sync time: 54
+vote result: reharm
+pass rate: 0.21
+Sent chord pair: 4_7_11_2,9_0_4_7
+Chord Sync time: 53
+Start reharm at: 803286
+4, 1
+Sent chord pair: 5_9_0_4,0_4_7_11T
+Chord Sync time: 53
+pass rate: 0.21
+vote failed, send basic chord
+2, 6
+Sent chord pair: 2_5_9_0,9_0_4_7T
+Chord Sync time: 52
+pass rate: 0.21
+vote failed, send basic chord
+3, 5
+Sent chord pair: 4_7_11_2,7_11_2_5T
+Chord Sync time: 54
+pass rate: 0.20
+vote failed, send basic chord
+4, 1
+Sent chord pair: 5_9_0_4,0_4_7_11T
+Chord Sync time: 54
+pass rate: 0.20
+vote failed, send basic chord
+2, 6
+Sent chord pair: 2_5_9_0,9_0_4_7T
+Chord Sync time: 52
+vote result: reharm
+pass rate: 0.21
+Sent chord pair: 7_11_2_5,0_4_7_11
+Chord Sync time: 53
+Start reharm at: 851286
+3, 5
+Sent chord pair: 4_7_11_2,7_11_2_5T
+Chord Sync time: 54
+pass rate: 0.21
+vote failed, send basic chord
+4, 1
+Sent chord pair: 5_9_0_4,0_4_7_11T
+Chord Sync time: 54
+vote result: basic
+pass rate: 0.21
+2, 6
+Sent chord pair: 2_5_9_0,9_0_4_7T
+Chord Sync time: 52
+vote result: reharm
+pass rate: 0.22
+Sent chord pair: 7_11_2_5,0_4_7_11
+Chord Sync time: 53
+Start reharm at: 883286
+3, 5
+Sent chord pair: 4_7_11_2,7_11_2_5T
+Chord Sync time: 54
+vote result: reharm
+pass rate: 0.22
+Sent chord pair: 4_7_11_2,9_0_4_7
+Chord Sync time: 52
+Start reharm at: 899286
+4, 1
+Sent chord pair: 5_9_0_4,0_4_7_11T
+Chord Sync time: 53
+pass rate: 0.22
+vote failed, send basic chord
+2, 6
+Sent chord pair: 2_5_9_0,9_0_4_7T
+Chord Sync time: 52
+vote result: basic
+pass rate: 0.22
+3, 5
+Sent chord pair: 4_7_11_2,7_11_2_5T
+Chord Sync time: 51
+vote result: basic
+pass rate: 0.22
+4, 1
+Sent chord pair: 5_9_0_4,0_4_7_11T
+Chord Sync time: 53
+pass rate: 0.22
+vote failed, send basic chord
+2, 6
+Sent chord pair: 2_5_9_0,9_0_4_7T
+Chord Sync time: 52
+vote result: basic
+pass rate: 0.21
+3, 5
+Sent chord pair: 4_7_11_2,7_11_2_5T
+Chord Sync time: 54
+vote result: reharm
+pass rate: 0.22
+Sent chord pair: 4_7_11_2,9_0_4_7
+Chord Sync time: 52
+Start reharm at: 955286
+4, 1
+Sent chord pair: 5_9_0_4,0_4_7_11T
+Chord Sync time: 53
